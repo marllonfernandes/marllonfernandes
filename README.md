@@ -1,4 +1,4 @@
-## Eu sou Marllon Fernandes da Silva, apaixonado por programação, tecnologia e música!
+## Eu sou Marllon Fernandes da Silva, apaixonado por programação :computer: , tecnologia e música! 
 <div align="center">
   <a href="https://github.com/marllonfernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marllonfernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,5 +27,5 @@
 </div>
 
 <div> 
-  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" target="_blank" width="480px" height="360px">
+  <link src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" target="_blank" width="480px" height="360px">
 </div>
