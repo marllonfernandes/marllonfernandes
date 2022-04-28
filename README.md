@@ -17,9 +17,9 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/fernandesmarllon/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank"></a>
- 	<a href="https://twitter.com/marllonfdes" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marllon.mfb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marllon-fernandes-da-silva-99513629" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/fernandesmarllon/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank" width="50px" height="50px"></a>
+ 	<a href="https://twitter.com/marllonfdes" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174876.png" target="_blank" width="50px" height="50px"></a>
+  <a href = "mailto:marllon.mfb@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/300/300228.png" target="_blank" width="50px" height="50px"></a>
+  <a href="https://www.linkedin.com/in/marllon-fernandes-da-silva-99513629" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="50px" height="50px"></a> 
  
 </div>
