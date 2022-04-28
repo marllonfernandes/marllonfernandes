@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllonfernandes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-##
+## Habilidades
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marllon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +17,7 @@
   <img align="center" alt="Marllon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ##
+  ## Rede Social
  
 <div> 
   <a href="https://www.instagram.com/fernandesmarllon/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank" width="30px" height="30px"></a>
@@ -26,6 +26,6 @@
   <a href="https://www.linkedin.com/in/marllon-fernandes-da-silva-99513629" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="30px" height="30px"></a> 
 </div>
 
-  ##
+  ## Como trabalhamos
 
 ![Full-Stack-Development-Featured-Image-LevelFive-Solutions](https://user-images.githubusercontent.com/19729687/165854059-e59855e2-1040-43e9-8717-26dc373c191a.gif)
