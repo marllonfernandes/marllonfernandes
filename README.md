@@ -7,7 +7,7 @@
 
 ## Habilidades
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/html-5--v1.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/css3.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/javascript--v1.png">
@@ -30,7 +30,7 @@
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/vue-js.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/amazon-web-services.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/google-cloud.png">
-  
+
   ![giphy](https://user-images.githubusercontent.com/19729687/166106154-b1cb28c8-67f7-4c92-a40f-51c7ff7b1295.gif)
 </div>
   
