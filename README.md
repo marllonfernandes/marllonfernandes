@@ -15,6 +15,7 @@
   <img align="center" height="40" width="40" src="https://img.icons8.com/fluency/344/docker.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/kubernetes.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/python--v1.png">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/ios-filled/344/c-sharp-logo.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/nodejs.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/mongodb.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/graphql.png">
