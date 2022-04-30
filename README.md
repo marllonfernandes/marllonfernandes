@@ -16,6 +16,13 @@
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/kubernetes.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/python--v1.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/nodejs.png">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/mongodb.png">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/microsoft-sql-server.png">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/mysql-logo.png">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/postgreesql.png">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/terraform.png">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/ansible.png">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/linux--v1.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/azure-1.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/vue-js.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/amazon-web-services.png">
