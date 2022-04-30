@@ -44,5 +44,5 @@
   ## Modo de trabalho
 <div align="center">
 
-![Full-Stack-Development-Featured-Image-LevelFive-Solutions](https://user-images.githubusercontent.com/19729687/165854059-e59855e2-1040-43e9-8717-26dc373c191a.gif)
+![giphy](https://user-images.githubusercontent.com/19729687/166106154-b1cb28c8-67f7-4c92-a40f-51c7ff7b1295.gif)
 </div>
