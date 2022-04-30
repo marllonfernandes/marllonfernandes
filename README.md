@@ -8,16 +8,13 @@
 ## Habilidades
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/html-5--v1.png">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/css3.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/javascript--v1.png">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/typescript.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/fluency/344/docker.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/kubernetes.png">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/python--v1.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/nodejs.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/azure-1.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/vue-js.png">
