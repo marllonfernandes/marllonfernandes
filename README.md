@@ -1,8 +1,8 @@
 ## Olá, eu sou Marllon Fernandes da Silva, apaixonado por programação 👨🏻‍💻 , tecnologia 💡 e música 🎹
 <div align="center">
   <a href="https://github.com/marllonfernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marllonfernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllonfernandes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marllonfernandes&show_icons=true&theme=codepen&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllonfernandes&layout=compact&langs_count=7&theme=codepen"/>
 </div>
 
 ## Habilidades
