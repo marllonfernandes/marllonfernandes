@@ -16,6 +16,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/azure-1.png">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/amazon-web-services.png">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/google-cloud.png">
 </div>
   
   ## Rede Social
